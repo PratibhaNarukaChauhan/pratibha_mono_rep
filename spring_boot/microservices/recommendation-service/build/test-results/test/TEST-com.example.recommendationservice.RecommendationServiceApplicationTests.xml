@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.recommendationservice.RecommendationServiceApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-05T11:09:43" hostname="DESKTOP-7Q58NQ2" time="1.293">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.recommendationservice.RecommendationServiceApplicationTests" time="1.293"/>
+  <system-out><![CDATA[16:39:40.502 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.recommendationservice.RecommendationServiceApplicationTests]: RecommendationServiceApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+16:39:40.722 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.recommendationservice.RecommendationServiceApplication for test class com.example.recommendationservice.RecommendationServiceApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.5)
+
+2024-05-05T16:39:41.406+05:30  INFO 13384 --- [recommendation-service] [    Test worker] .r.RecommendationServiceApplicationTests : Starting RecommendationServiceApplicationTests using Java 17.0.7 with PID 13384 (started by manis in C:\src\pratibha_mono_repo\spring_boot\microservices\recommendation-service)
+2024-05-05T16:39:41.408+05:30  INFO 13384 --- [recommendation-service] [    Test worker] .r.RecommendationServiceApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2024-05-05T16:39:43.568+05:30  INFO 13384 --- [recommendation-service] [    Test worker] .r.RecommendationServiceApplicationTests : Started RecommendationServiceApplicationTests in 2.528 seconds (process running for 4.311)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

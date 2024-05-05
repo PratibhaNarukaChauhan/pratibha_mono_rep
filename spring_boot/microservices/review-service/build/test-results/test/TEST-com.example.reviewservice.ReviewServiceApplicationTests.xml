@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.reviewservice.ReviewServiceApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-05T11:09:57" hostname="DESKTOP-7Q58NQ2" time="1.297">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.reviewservice.ReviewServiceApplicationTests" time="1.297"/>
+  <system-out><![CDATA[16:39:53.184 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.reviewservice.ReviewServiceApplicationTests]: ReviewServiceApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+16:39:53.348 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.reviewservice.ReviewServiceApplication for test class com.example.reviewservice.ReviewServiceApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.5)
+
+2024-05-05T16:39:54.196+05:30  INFO 9768 --- [review-service] [    Test worker] c.e.r.ReviewServiceApplicationTests      : Starting ReviewServiceApplicationTests using Java 17.0.7 with PID 9768 (started by manis in C:\src\pratibha_mono_repo\spring_boot\microservices\review-service)
+2024-05-05T16:39:54.198+05:30  INFO 9768 --- [review-service] [    Test worker] c.e.r.ReviewServiceApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2024-05-05T16:39:57.205+05:30  INFO 9768 --- [review-service] [    Test worker] c.e.r.ReviewServiceApplicationTests      : Started ReviewServiceApplicationTests in 3.435 seconds (process running for 5.587)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

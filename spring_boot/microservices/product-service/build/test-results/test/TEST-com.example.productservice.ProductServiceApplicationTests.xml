@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.productservice.ProductServiceApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-05T11:09:35" hostname="DESKTOP-7Q58NQ2" time="0.943">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.productservice.ProductServiceApplicationTests" time="0.943"/>
+  <system-out><![CDATA[16:39:32.820 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.productservice.ProductServiceApplicationTests]: ProductServiceApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+16:39:32.967 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.productservice.ProductServiceApplication for test class com.example.productservice.ProductServiceApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.5)
+
+2024-05-05T16:39:33.750+05:30  INFO 15020 --- [product-service] [    Test worker] c.e.p.ProductServiceApplicationTests     : Starting ProductServiceApplicationTests using Java 17.0.7 with PID 15020 (started by manis in C:\src\pratibha_mono_repo\spring_boot\microservices\product-service)
+2024-05-05T16:39:33.751+05:30  INFO 15020 --- [product-service] [    Test worker] c.e.p.ProductServiceApplicationTests     : No active profile set, falling back to 1 default profile: "default"
+2024-05-05T16:39:35.920+05:30  INFO 15020 --- [product-service] [    Test worker] c.e.p.ProductServiceApplicationTests     : Started ProductServiceApplicationTests in 2.63 seconds (process running for 4.316)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
